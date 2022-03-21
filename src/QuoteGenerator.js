@@ -11,7 +11,7 @@ import React from 'react'
     }
 
       return <div className="QuoteSection">
-      <p id="actualText">{quote}</p>
+      <p id="actualText">"{quote}"</p>
       <img src="https://svgshare.com/i/fLF.svg" alt="kanye"></img>
       <button onClick={fetchText}>Quote me! ⚡</button>
       </div>
