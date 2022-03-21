@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/reactkanyequotes/static/css/main.460c93f4.css",
-    "main.js": "/reactkanyequotes/static/js/main.e71ba5ab.js",
+    "main.js": "/reactkanyequotes/static/js/main.516ff456.js",
     "index.html": "/reactkanyequotes/index.html",
     "main.460c93f4.css.map": "/reactkanyequotes/static/css/main.460c93f4.css.map",
-    "main.e71ba5ab.js.map": "/reactkanyequotes/static/js/main.e71ba5ab.js.map"
+    "main.516ff456.js.map": "/reactkanyequotes/static/js/main.516ff456.js.map"
   },
   "entrypoints": [
     "static/css/main.460c93f4.css",
-    "static/js/main.e71ba5ab.js"
+    "static/js/main.516ff456.js"
   ]
 }
